@@ -32,21 +32,21 @@
                 android:orientation="vertical">
 
                 <TextView
-                    android:id="@+id/textView3"
+                    android:id="@+id/lblCedula"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:text="TextView"
                     android:textAlignment="center" />
 
                 <TextView
-                    android:id="@+id/textView4"
+                    android:id="@+id/lblNombre"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="TextView"
                     android:textAlignment="center" />
 
                 <TextView
-                    android:id="@+id/textView5"
+                    android:id="@+id/lblApellido"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="TextView"
